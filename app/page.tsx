@@ -3,7 +3,7 @@ import ResumePreview from "@/components/ResumePreview";
 
 export default function HomePage() {
   return (
-    <main>u did
+    <main>
       <nav className="container-width flex items-center justify-between py-8">
         <div className="text-sm tracking-[0.24em] uppercase text-secondary">
           ATS Resume Matcher
